@@ -12,6 +12,14 @@ public class Character {
      return characterType.attack();
 
     }
+
+    public String defendcharacter(){
+
+        return characterType.defend();
+   
+       }
+
+
     
 }
 
